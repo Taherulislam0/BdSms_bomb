@@ -1,6 +1,6 @@
 #---------{ ADMIN INFO }----------
-# AUTHOR   :Md Turikul Islam Tounik
-# TEAM     : cyber Tounik
+# AUTHOR   : Taherul Islam shawon
+# TEAM     : No team
 #-------------------------------- 
 
 import sys
@@ -300,9 +300,9 @@ FACEBOOK  : Prince Shawon
                             
  TNQ FOR USING OUR TOOLS 🖤🥰
 """)
-  os.system("xdg-open https://www.facebook.com/profile.php?id=100080358373567")
+  os.system("xdg-open https://www.facebook.com/profile.php?id=taherulislam0")
   sys.exit()
-baner= os.system("figlet -f slant Tounik")
+baner= os.system("figlet -f slant shawon")
 baner = str(baner)
 baner = baner.replace("0","")
 logo=f""" {baner} \033[1;37m
@@ -322,7 +322,7 @@ usr=usr.replace(" ","")
 if usr== "1" or usr== "01":
   primiam()
 elif usr== "2" or usr== "02":
-  os.system("xdg-open https://www.facebook.com/profile.php?id=100080358373567")
+  os.system("xdg-open https://www.facebook.com/profile.php?id=taherulislam0")
   sys.exit()
 else:
   print("\033[38;5;195m\n[\033[1;31m!\033[38;5;195m]\033[1;31m WRONG OPTION ENTERED..\n")
